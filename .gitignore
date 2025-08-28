@@ -1,0 +1,16 @@
+# Arquivos compilados Java
+*.class
+*.jar
+*.war
+
+# Diretórios comuns de build
+/bin/
+/out/
+/target/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
